@@ -1,3 +1,5 @@
+package src;
+
 import src.BonusMilesService;
 
 public class Main {
